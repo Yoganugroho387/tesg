@@ -30,9 +30,6 @@
 
 ---
 
-## 🖼 Banner / Hero (opsional)
-Taruh banner di atas halaman web kamu:
-```html
-<section style="text-align:center;padding:48px 12px;">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=160&text=Mau-Mauve&fontSize=40&fontColor=ffffff&desc=Koleksi%20Source%20Code&descAlignY=70" alt="Banner Mau-Mauve">
-</section>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Koleksi+Source+Code;Minimalis+%7C+Cepat+%7C+Rapi" />
+</p>
